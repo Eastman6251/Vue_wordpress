@@ -2,16 +2,6 @@
 
 > An offline-first SPA using Vue.js, the WordPress REST API and Progressive Web Apps
 
-## Description
-
-This is the code for the [FullStackWeekly](https://www.fullstackweekly.com/) website. You can use it as a starter pack for your WordPress site as well.
-
-Since WordPress can expose a REST API, this project uses Vue.js, Vue-router, Vuex, Vue-resource & Progressive Web App techniques to create an offline-first web client.
-
-You can also fork the project and host it on Azure App Services with continuous integration using the deploy.cmd file (included)
-
-Live version: [https://www.fullstackweekly.com/](https://www.fullstackweekly.com/)
-
 ## Getting Started
 
 ### Prerequisites
